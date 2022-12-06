@@ -1,1 +1,1 @@
-https://archiveOf.github.io/rsschool-cv
+https://archiveOf.github.io/rsschool-test
