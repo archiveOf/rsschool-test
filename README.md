@@ -1,2 +1,1 @@
-https://archiveOf.github.io/rsschool-test/cv
-New Line
+https://archiveOf.github.io/rsschool-test/cv.md
